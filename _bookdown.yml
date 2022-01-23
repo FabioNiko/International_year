@@ -1,0 +1,8 @@
+book_filename: "series"
+language:
+  ui:
+  chapter_name: "Chapter "
+rmd_files: [
+  "Pledge_progress_analysis v 22 December_bookdown v2.Rmd"]
+delete_merged_file: true 
+output_dir: "docs"
