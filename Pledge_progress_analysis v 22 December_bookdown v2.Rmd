@@ -9,6 +9,7 @@ documentclass: book
 biblio-style: apalike
 link-citations: yes
 site: bookdown::bookdown_site
+output_dir: "docs"
 ---
   
 ```{r,warning = FALSE, message = FALSE, echo=FALSE}
